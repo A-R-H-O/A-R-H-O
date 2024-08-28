@@ -1,4 +1,4 @@
-# [Hey, I'm Colin Huminsky] 👋
+# Hey, I'm Colin Huminsky 👋
 
 16-year-old developer from Chicago, IL. Founder of Viro (Runnup).
 
