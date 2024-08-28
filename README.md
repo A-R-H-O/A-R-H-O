@@ -16,7 +16,7 @@
 - Contributing to open-source
 
 ## Experience 📈
-- 6+ years of programming
+- 7+ years of programming
 - Startup founder
 
 ## Contact 📫
