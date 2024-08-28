@@ -7,12 +7,12 @@
 - UI/UX Design
 - Languages: Java, Python, Ruby, JavaScript, TypeScript
 - Frontend: HTML, CSS, Tailwind, React/React Native, Svelte
-- Backend: Node.js, Express, Spring Boot, Firebase
-- Databases: MongoDB, Redis
+- Backend: Node.js, Express, Firebase
+- Databases: MongoDB, Redis, Firestore
 
 ## Current Projects 🚀
 - Developing Viro/Runnup
-- Exploring AI and Machine Learning
+- Exploring AI, Machine Learning, and Rust
 - Contributing to open-source
 
 ## Experience 📈
