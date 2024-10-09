@@ -1,6 +1,6 @@
 # Hey, I'm Colin Huminsky 👋
 
-16-year-old developer from Chicago, IL. Founder of Viro (Runnup).
+16-year-old developer from Chicago, IL. Founder of Huddle.
 
 ## Skills 🛠️
 - Fullstack Development
